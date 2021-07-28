@@ -1,4 +1,4 @@
-# Created by https://www.toptal.com/developers/gitignore/api/eclipse,maven,java,code-java
+# Created by https://www.toptal.com/developers/gitignore/api/eclipse,maven,java,code-java,
 # Edit at https://www.toptal.com/developers/gitignore?templates=eclipse,maven,java,code-java
 
 ### Code-Java ###
@@ -112,4 +112,5 @@ buildNumber.properties
 # https://github.com/takari/maven-wrapper#usage-without-binary-jar
 .mvn/wrapper/maven-wrapper.jar
 
-# End of https://www.toptal.com/developers/gitignore/api/eclipse,maven,java,code-java
+# End of https://www.toptal.com/developers/gitignore/api/eclipse,maven,java,code-java 
+
